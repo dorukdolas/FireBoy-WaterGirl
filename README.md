@@ -25,6 +25,7 @@ Our normally small blocks are also timed blocks, you will have 3 seconds from th
 The pink block on the top right is our finish line, the game ends as soon as you get there.
 
 
+
 The player can only move with W-A-S-D.
 
 You can pause the game by pressing the 'P' key.
